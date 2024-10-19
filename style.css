@@ -1,0 +1,28 @@
+body{
+    padding: 5%;
+    margin: 5%;
+    background-color: #A2E5ED;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+.container{
+    margin: 50px;
+}
+#cityInput{
+  color: white!important;
+  font-size :20px;
+  background-color:#A2E5ED ;
+  border: none;
+}
+#searchBtn{
+    font-weight: bold;
+    width: 150px;
+    padding: 10px;
+    border: 2px solid white;
+    color: #A2E5ED;
+    border-radius: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+
